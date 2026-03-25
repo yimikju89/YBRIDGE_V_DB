@@ -1,7 +1,7 @@
 ("교대_차세대라멘_일반 / 15m / Φ600" . (
   (type . "ABUT")
   (default_L . 15.000)
-  (str_limit_gl . 0.000)
+  (str_limit_gl . nil)
   (str_limit_br . -14.713)
   (pile_embed . 1.200)
   (piles_x . (-3.450 -1.900 -0.350 1.200))
