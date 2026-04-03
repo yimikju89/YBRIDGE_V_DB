@@ -145,4 +145,13 @@
   (girder_gap_line . (
     ("L" "CS-CONC-MAJR" -0.000 0.000 -0.000 -0.450)
   ))
+
+  ;; ·¹ÀÌ¾î
+  (layers . (
+    ("CS-CNTL" 1 "A-CENTR01")
+    ("CS-CONC-MAJR" 4 "Continuous")
+    ("CS-PILE" 3 "Continuous")
+    ("CS-STEL" 3 "Continuous")
+    ("CZ-CONC-BASE" 8 "Continuous")
+  ))
 ))
