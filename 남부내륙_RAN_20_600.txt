@@ -86,7 +86,7 @@
     ("A" "CS-PILE" -4350.0 -19814.0 204.0 0.7433 2.3983)
   ))
 
-  ;; 레이어 (Capas)
+  ;; 레이어
   (layers . (
     ("CS-CNTL" 1 "A-CENTR01")
     ("CS-CONC-MAJR" 4 "Continuous")
