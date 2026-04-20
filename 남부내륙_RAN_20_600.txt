@@ -9,7 +9,6 @@
   (D3 . (438.0 (0.0 0.0) N))
   (HAE . (2238.0 (0.0 0.0)))
   (HAM . 1038.0)
-  (pile_dia . 600)
 
   ;; 말뚝 중심선 (Líneas centrales de los pilotes)
   (pile_lines . (
